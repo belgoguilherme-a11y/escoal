@@ -1,0 +1,2 @@
+# escoal
+quer estudar
