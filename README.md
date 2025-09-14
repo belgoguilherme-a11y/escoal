@@ -1,2 +1,2 @@
-# escoal
+# estudo
 quer estudar
